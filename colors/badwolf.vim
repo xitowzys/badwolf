@@ -95,7 +95,7 @@ let s:bwc.saltwatertaffy = ['8cffba', 121]
 "
 " * The cursor
 " * A REPL prompt
-let s:bwc.tardis = ['0a9dff', 39]
+let s:bwc.tardis = ['023A61', 39]
 
 " This one's from Mustang, not Florida!
 let s:bwc.orange = ['ffa724', 214]
